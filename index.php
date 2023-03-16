@@ -629,7 +629,7 @@
 		</div>
 	</div>-->
 
-	<div id="fh5co-event" class="fh5co-bg" style="border-top: 1px solid #f2f2f2">
+	<!-- <div id="fh5co-event" class="fh5co-bg" style="border-top: 1px solid #f2f2f2">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
@@ -643,7 +643,7 @@
 						<div class="event-wrap animate-box">
 							<h3 style="font-family: 'Oswald', Arial, serif;">Devi & Diki</h3>
 							<form action="post.php" method="post">
-								<!-- <table width="100%" border="0">
+								<table width="100%" border="0">
 									<tr><td>
 										<input class="nama" name="nama" type="text" id="TxtNama" size="42" value="Bejo Sujatmiko" readonly></td></tr>
 										<tr><td>
@@ -655,20 +655,20 @@
 								<!-- <input class="nama" name="nama" type="text" id="TxtNama" size="42" value="Bejo Sujatmiko" readonly>
 								<input class="alamat" name="alamat" type="text" id="TxtAlamat" size="42" placeholder="Alamat">
 								<textarea name="pesan" placeholder="Pesan Anda"></textarea>
-								<input type='submit' value='kirim Ucapan'> -->
+								<input type='submit' value='kirim Ucapan'> 
 							</form>
 						</div>
 					</div>
-					<!-- <div class="col-md-6 col-sm-6">
+					 <div class="col-md-6 col-sm-6">
 						<div class="event-wrap animate-box">
 							<h3 style="font-family: 'Oswald', Arial, serif;">Testimonial</h3>
 							
 						</div>
-					</div>	 -->
+					</div>	 
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> -->
 
 	<footer id="fh5co-footer" role="contentinfo" style="background: url('images/background/repeat-background/witewall_3.png'); background-repeat:repeat ">
 		<div class="container">
