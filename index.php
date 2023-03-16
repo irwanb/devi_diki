@@ -652,10 +652,10 @@
 										<tr><td><a href="" target="_blank"
 											class="btn btn-primary">Kirim Ucapan <i class="icon-icons"></i></a></td></tr>
 								</table> -->
-								<input class="nama" name="nama" type="text" id="TxtNama" size="42" value="Bejo Sujatmiko" readonly>
+								<!-- <input class="nama" name="nama" type="text" id="TxtNama" size="42" value="Bejo Sujatmiko" readonly>
 								<input class="alamat" name="alamat" type="text" id="TxtAlamat" size="42" placeholder="Alamat">
 								<textarea name="pesan" placeholder="Pesan Anda"></textarea>
-								<input type='submit' value='kirim Ucapan'>
+								<input type='submit' value='kirim Ucapan'> -->
 							</form>
 						</div>
 					</div>
