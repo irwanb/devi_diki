@@ -659,12 +659,12 @@
 							</form>
 						</div>
 					</div>
-					<div class="col-md-6 col-sm-6">
+					<!-- <div class="col-md-6 col-sm-6">
 						<div class="event-wrap animate-box">
 							<h3 style="font-family: 'Oswald', Arial, serif;">Testimonial</h3>
 							
 						</div>
-					</div>	
+					</div>	 -->
 				</div>
 			</div>
 		</div>
