@@ -4,7 +4,7 @@
         $nama = $_POST['nama'];
         $alamat = $_POST['alamat'];
         $pesan = $_POST['pesan'];
-        $tgl = date('D, d M Y - G:i:s');
+        $tgl = date('D, d M Y');
         $text = stripslashes(htmlspecialchars($pesan));
        
         $l = rand(1,2);
