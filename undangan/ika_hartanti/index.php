@@ -258,7 +258,7 @@
 					<div class="simply-countdown simply-countdown-wedding"></div>
 					<p>
 						<i style="color: #bf9b73; font-size: 20px">Kamis, 27 April 2023</i></br></br>
-						<a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2k0YmtvaDNnb2hydmtlcDQyNW12cHNoOWcgZnVsZ296by5jcmltZUBt&tmsrc=fulgozo.crime%40gmail.com" target="_blank" class="btn btn-primary btn-sm">Save the date</a>
+						<a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MHBlZzd2MzJybWxqYjZkYm1tbXU2YmJzMjAgZnVsZ296by5jcmltZUBt&tmsrc=fulgozo.crime%40gmail.com" target="_blank" class="btn btn-primary btn-sm">Save the date</a>
 					</p>
 				</div>
 			</div>
