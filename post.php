@@ -10,7 +10,7 @@
         $l = rand(1,2);
 
         $fp = fopen("db.html", 'a');
-        fwrite($fp, "<div class='list$l'><div class='hr'><div align='right'>$tgl</div></div><img src='ssd1.png'/> <a>$nama</a> : $text </div>");
+        fwrite($fp, "<div class='list$l'><div class='hr'><div align='right'>$tgl</div></div><img src='../../ssd1.png'/> <a>$nama</a> : $text </div>");
         fclose($fp);
     }
    

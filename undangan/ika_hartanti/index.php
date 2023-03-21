@@ -28,7 +28,7 @@
 	<meta name="twitter:image" content="images/readme/half%20circle-200.png" />
 	<meta name="twitter:url" content="https://ngodingsolusi.github.io/the-wedding-of-rehan-maulidan/" /> -->
 
-	<link rel="icon" href="images/qw.png">
+	<link rel="icon" href="../../images/qw.png">
 
 	<!--
       //////////////////////////////////////////////////////
@@ -55,31 +55,31 @@
 	<link href="https://fonts.googleapis.com/css?family=Courgette" rel="stylesheet">
 
 	<!-- Animate.css -->
-	<link rel="stylesheet" href="css/animate.css">
+	<link rel="stylesheet" href="../../css/animate.css">
 	<!-- Icomoon Icon Fonts-->
-	<link rel="stylesheet" href="css/icomoon.css">
+	<link rel="stylesheet" href="../../css/icomoon.css">
 	<!-- Bootstrap  -->
-	<link rel="stylesheet" href="css/bootstrap.css">
+	<link rel="stylesheet" href="../../css/bootstrap.css">
 
 	<!-- Magnific Popup -->
-	<link rel="stylesheet" href="css/magnific-popup.css">
+	<link rel="stylesheet" href="../../css/magnific-popup.css">
 
 	<!-- Owl Carousel  -->
-	<link rel="stylesheet" href="css/owl.carousel.min.css">
-	<link rel="stylesheet" href="css/owl.theme.default.min.css">
+	<link rel="stylesheet" href="../../css/owl.carousel.min.css">
+	<link rel="stylesheet" href="../../css/owl.theme.default.min.css">
 
 	<!--<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.5.0-beta.2/css/lightgallery-bundle.min.css" />-->
-	<link type="text/css" rel="stylesheet" href="lib/lightgallery.js/dist/css/lightgallery-bundle.min.css" />
-	<link type="text/css" rel="stylesheet" href="lib/lightgallery.js/dist/css/lg-thumbnail.css" />
-	<link type="text/css" rel="stylesheet" href="lib/lightgallery.js/dist/css/lg-autoplay.css" />
-	<link type="text/css" rel="stylesheet" href="lib/lightgallery.js/dist/css/lg-fullscreen.css" />
-	<link type="text/css" rel="stylesheet" href="lib/lightgallery.js/dist/css/lg-transitions.css" />
+	<link type="text/css" rel="stylesheet" href="../../lib/lightgallery.js/dist/css/lightgallery-bundle.min.css" />
+	<link type="text/css" rel="stylesheet" href="../../lib/lightgallery.js/dist/css/lg-thumbnail.css" />
+	<link type="text/css" rel="stylesheet" href="../../lib/lightgallery.js/dist/css/lg-autoplay.css" />
+	<link type="text/css" rel="stylesheet" href="../../lib/lightgallery.js/dist/css/lg-fullscreen.css" />
+	<link type="text/css" rel="stylesheet" href="../../lib/lightgallery.js/dist/css/lg-transitions.css" />
 
 	<!-- Theme style  -->
-	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="../../css/style.css">
 
 	<!-- Modernizr JS -->
-	<script src="js/modernizr-2.6.2.min.js"></script>
+	<script src="../../js/modernizr-2.6.2.min.js"></script>
 	<!-- FOR IE9 below -->
 	<!--[if lt IE 9]>
 	<script src="js/respond.min.js"></script>
@@ -127,7 +127,7 @@
     }
 </style> -->
 
-<style>img[alt="www.000webhost.com"]{display:none;}</style>
+<!-- <style>img[alt="www.000webhost.com"]{display:none;}</style> -->
 </head>
 <body>
 
@@ -217,7 +217,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box fadeInUp animated-fast">
-						<img src="images/A3.png" alt="" class="couple-main">
+						<img src="../../images/A3.png" alt="" class="couple-main">
 					</div>
 				</div>
 				<div class="row">
@@ -237,8 +237,8 @@
 
 	<div id="fh5co-header">
 		<div class="container">
-			<img class="flower-1" style="position: absolute; right: 0; top: 0" src="images/background/flowers/top-right-1.svg">
-			<img class="flower-1" style="position: absolute; left: -25px; top:0" src="images/background/flowers/top-left-1.svg">
+			<img class="flower-1" style="position: absolute; right: 0; top: 0" src="../../images/background/flowers/top-right-1.svg">
+			<img class="flower-1" style="position: absolute; left: -25px; top:0" src="../../images/background/flowers/top-left-1.svg">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
 					<h2>The Wedding Of</h2>
@@ -246,7 +246,7 @@
 			</div>
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
-					<img src="images/A3.png" alt="" class="couple-main">
+					<img src="../../images/A3.png" alt="" class="couple-main">
 				</div>
 			</div>
 			<div class="row">
@@ -265,13 +265,13 @@
 		</div>
 	</div>
 
-	<div id="fh5co-couple" style="background: url('images/background/repeat-background/so-white.png'); background-repeat:repeat ">
+	<div id="fh5co-couple" style="background: url('../../images/background/repeat-background/so-white.png'); background-repeat:repeat ">
 		<div class="container">
-			<img class="flower-2-right" style="position: absolute;" src="images/background/flowers/right-1.svg">
-			<img class="flower-2-left" style="position: absolute;" src="images/background/flowers/left-1.svg">
+			<img class="flower-2-right" style="position: absolute;" src="../../images/background/flowers/right-1.svg">
+			<img class="flower-2-left" style="position: absolute;" src="../../images/background/flowers/left-1.svg">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
-					<img src="images/bismillah.svg" alt="" style="margin-bottom: 20px">
+					<img src="../../images/bismillah.svg" alt="" style="margin-bottom: 20px">
 					<h2>Assalamu'alaikum Wr. Wb.</h2>
 					<p style="color: #bf9b73">Maha Suci Allah yang telah menciptakan makhluk-Nya berpasang-pasangan.
 						Ya Allah yang Maha Pengasih, dengan ridho-Mu Kau mempertemukan kami dalam suatu ikatan
@@ -281,7 +281,7 @@
 			<div class="couple-wrap animate-box">
 				<div class="couple-half">
 					<div class="groom">
-						<img src="images/undangan2_bunder.png" alt="groom" class="img-responsive">
+						<img src="../../images/undangan2_bunder.png" alt="groom" class="img-responsive">
 					</div>
 					<div class="desc-groom">
 						<h3>Devi Ainur</h3>
@@ -304,7 +304,7 @@
 				<p class="heart text-center"><i class="icon-heart2"></i></p>
 				<div class="couple-half">
 					<div class="bride">
-						<img src="images/undangan3_bunder.png" alt="groom" class="img-responsive">
+						<img src="../../images/undangan3_bunder.png" alt="groom" class="img-responsive">
 					</div>
 					<div class="desc-bride">
 						<h3>Seftiawan Diki</h3>
@@ -334,7 +334,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
-					<h2>Save The Date <a href="calendar.ics" class="btn btn-info"><i class="icon-download2"></i></a></h2>
+					<h2>Save The Date <a href="../../calendar.ics" class="btn btn-info"><i class="icon-download2"></i></a></h2>
 				</div>
 			</div>
 			<div class="row">
@@ -386,9 +386,9 @@
 		</div>
 	</div>
 
-	<div id="fh5co-gallery" style="background: url('images/background/repeat-background/so-white.png'); background-repeat:repeat ">
-		<img class="flower-3-top" src="images/background/flowers/top-2.svg">
-		<img class="flower-4-bottom" src="images/background/flowers/bottom-2.svg">
+	<div id="fh5co-gallery" style="background: url('../../images/background/repeat-background/so-white.png'); background-repeat:repeat ">
+		<img class="flower-3-top" src="../../images/background/flowers/top-2.svg">
+		<img class="flower-4-bottom" src="../../images/background/flowers/bottom-2.svg">
 
 		<div class="container">
 			<div class="row">
@@ -406,7 +406,7 @@
 	</div>
 	<div id="fh5co-ayat">
 		<!--<img height="400" width="100%" style="top: 0" src="images/background/wave-up.svg">-->
-		<img height="400" width="100%" style="position: absolute; bottom: -175px" src="images/background/wave-down.svg">
+		<img height="400" width="100%" style="position: absolute; bottom: -175px" src="../../images/background/wave-down.svg">
 		<div class="container">
 			<div class="ayat-content animate-box">
 				Dan di antara tanda-tanda kekuasaan-Nya lah Dia menciptakan untukmu istri-istri dari jenismu sendiri, supaya kamu cenderung dan merasa tenteram kepadanya, dan dijadikan-Nya diantaramu rasa kasih dan sayang. Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda bagi kaum yang berfikir.
@@ -429,7 +429,7 @@
 						<div class="col-md-4 col-xs-6">
 							<div class="item-protocol">
 								<div class="icon">
-									<img style="padding: 10px" height="90px" width="90px" src="images/health-protocol/distance.png" alt="Jaga jarak"/>
+									<img style="padding: 10px" height="90px" width="90px" src="../../images/health-protocol/distance.png" alt="Jaga jarak"/>
 								</div>
 								<div class="description">
 									<h3>Jaga Jarak</h3>
@@ -440,7 +440,7 @@
 						<div class="col-md-4 col-xs-6">
 							<div class="item-protocol">
 								<div class="icon">
-									<img style="padding: 15px" height="90px" width="90px" src="images/health-protocol/gel.png" alt="Hand Sanitizer"/>
+									<img style="padding: 15px" height="90px" width="90px" src="../../images/health-protocol/gel.png" alt="Hand Sanitizer"/>
 								</div>
 								<div class="description">
 									<h3>Gunakan Handsanitizer</h3>
@@ -451,7 +451,7 @@
 						<div class="col-md-4 col-xs-6">
 							<div class="item-protocol">
 								<div class="icon">
-									<img style="padding: 10px" height="90px" width="90px" src="images/health-protocol/washing-hands.png" alt="Cuci Tangan"/>
+									<img style="padding: 10px" height="90px" width="90px" src="../../images/health-protocol/washing-hands.png" alt="Cuci Tangan"/>
 								</div>
 								<div class="description">
 									<h3>Cuci Tangan</h3>
@@ -462,7 +462,7 @@
 						<div class="col-md-4 col-xs-6">
 							<div class="item-protocol">
 								<div class="icon">
-									<img style="padding: 10px" height="90px" width="90px" src="images/health-protocol/quarantine.png" alt="Jaga jarak"/>
+									<img style="padding: 10px" height="90px" width="90px" src="../../images/health-protocol/quarantine.png" alt="Jaga jarak"/>
 								</div>
 								<div class="description">
 									<h3>Hindari Kerumunan</h3>
@@ -473,7 +473,7 @@
 						<div class="col-md-4 col-xs-6">
 							<div class="item-protocol">
 								<div class="icon">
-									<img style="padding: 15px" height="90px" width="90px" src="images/health-protocol/mask.png" alt="Pakai Masker"/>
+									<img style="padding: 15px" height="90px" width="90px" src="../../images/health-protocol/mask.png" alt="Pakai Masker"/>
 								</div>
 								<div class="description">
 									<h3>Gunakan Masker</h3>
@@ -484,7 +484,7 @@
 						<div class="col-md-4 col-xs-6">
 							<div class="item-protocol">
 								<div class="icon">
-									<img style="padding: 10px" height="90px" width="90px" src="images/health-protocol/shaking-hands.png" alt="Tidak Bersalaman"/>
+									<img style="padding: 10px" height="90px" width="90px" src="../../images/health-protocol/shaking-hands.png" alt="Tidak Bersalaman"/>
 								</div>
 								<div class="description">
 									<h3>Tidak Bersalaman</h3>
@@ -644,7 +644,7 @@
 					<div class="col-md-6 col-sm-6">
 						<div class="event-wrap animate-box">
 							<h3 style="font-family: 'Oswald', Arial, serif;">Devi & Diki</h3>
-							<form action="post.php" method="post">
+							<form action="../../post.php" method="post">
 							<!--	<table width="100%" border="0">
 									<tr><td>
 										<input class="nama" name="nama" type="text" id="TxtNama" size="42" value="Bejo Sujatmiko" readonly></td></tr>
@@ -666,9 +666,9 @@
 							<h3 style="font-family: 'Oswald', Arial, serif;">Testimonial</h3>
 							<div class='testimoni'>
 							<?php
-								if(file_exists("db.html") && filesize("db.html") > 0){
-									$handle = fopen("db.html", "r");
-									$contents = fread($handle, filesize("db.html"));
+								if(file_exists("../../db.html") && filesize("../../db.html") > 0){
+									$handle = fopen("../../db.html", "r");
+									$contents = fread($handle, filesize("../../db.html"));
 									fclose($handle);
 								
 									echo "$contents";
@@ -686,7 +686,7 @@
 		</div>
 	</div> 
 
-	<footer id="fh5co-footer" role="contentinfo" style="background: url('images/background/repeat-background/witewall_3.png'); background-repeat:repeat ">
+	<footer id="fh5co-footer" role="contentinfo" style="background: url('../../images/background/repeat-background/witewall_3.png'); background-repeat:repeat ">
 		<div class="container">
 			<img class="flower-1" style="position: absolute; right: 0; bottom: 0" src="images/background/flowers/bottom-right-1.svg">
 			<img class="flower-1" style="position: absolute; left: 0; bottom:0" src="images/background/flowers/bottom-left-1.svg">
@@ -698,7 +698,7 @@
 					<h3 style="color: #bf9b73">Wassalamu'alaikum Wr. Wb.</h3>
 					Jazakumullahu Khairan
 					</p>
-					<img src="images/qw.png" width="100" height="100">
+					<img src="../../images/qw.png" width="100" height="100">
 					<br>
 					<h1 style="font-family: 'Satisfy', Arial, serif">Devi & Diki</h1>
 					<p>
@@ -723,33 +723,33 @@
 </div>-->
 
 <!-- jQuery -->
-<script src="js/jquery.min.js"></script>
+<script src="../../js/jquery.min.js"></script>
 <!-- jQuery Easing -->
-<script src="js/jquery.easing.1.3.js"></script>
+<script src="../../js/jquery.easing.1.3.js"></script>
 <!-- Bootstrap -->
-<script src="js/bootstrap.min.js"></script>
+<script src="../../js/bootstrap.min.js"></script>
 <!-- Waypoints -->
-<script src="js/jquery.waypoints.min.js"></script>
+<script src="../../js/jquery.waypoints.min.js"></script>
 <!-- Carousel -->
-<script src="js/owl.carousel.min.js"></script>
+<script src="../../js/owl.carousel.min.js"></script>
 <!-- countTo -->
-<script src="js/jquery.countTo.js"></script>
+<script src="../../js/jquery.countTo.js"></script>
 
 <!-- Stellar -->
-<script src="js/jquery.stellar.min.js"></script>
+<script src="../../js/jquery.stellar.min.js"></script>
 <!-- Magnific Popup -->
-<script src="js/jquery.magnific-popup.min.js"></script>
-<script src="js/magnific-popup-options.js"></script>
+<script src="../../js/jquery.magnific-popup.min.js"></script>
+<script src="../../js/magnific-popup-options.js"></script>
 
 <!-- // <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/0.0.1/prism.min.js"></script> -->
-<script src="js/simplyCountdown.js"></script>
+<script src="../../js/simplyCountdown.js"></script>
 <!-- Main -->
-<script src="js/main.js"></script>
+<script src="../../js/main.js"></script>
 
-<script src="lib/lightgallery.js/dist/lightgallery.min.js"></script>
-<script src="lib/lightgallery.js/dist/plugins/thumbnail/lg-thumbnail.min.js"></script>
-<script src="lib/lightgallery.js/dist/plugins/autoplay/lg-autoplay.min.js"></script>
-<script src="lib/lightgallery.js/dist/plugins/fullscreen/lg-fullscreen.min.js"></script>
+<script src="../../lib/lightgallery.js/dist/lightgallery.min.js"></script>
+<script src="../../lib/lightgallery.js/dist/plugins/thumbnail/lg-thumbnail.min.js"></script>
+<script src="../../lib/lightgallery.js/dist/plugins/autoplay/lg-autoplay.min.js"></script>
+<script src="../../lib/lightgallery.js/dist/plugins/fullscreen/lg-fullscreen.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.0.3/showdown.min.js"></script>
 
 <script>
@@ -841,7 +841,7 @@
 	}
 	
 	function togglePlayButton1(play) {
-		document.getElementById("youtube-icon1").src = play ? "images/pause.png" : "images/play.png";
+		document.getElementById("youtube-icon1").src = play ? "../../images/pause.png" : "../../images/play.png";
 	}
 
 	function toggleAudio1() {
@@ -919,135 +919,135 @@
 		slideDelay: 100,
 		dynamicEl: [
 			{
-				src: 'images/gallery/1.jpg',
-				thumb: 'images/gallery/1.jpg',
+				src: '../../images/gallery/1.jpg',
+				thumb: '../../images/gallery/1.jpg',
 				/*subHtml: `<div class="lightGallery-captions">
 					<h4>Caption 1</h4>
 					<p>Description of the slide 1</p>
 				</div>`,*/
 			},{
-				src: 'images/gallery/2.jpg',
-				thumb: 'images/gallery/2.jpg',
+				src: '../../images/gallery/2.jpg',
+				thumb: '../../images/gallery/2.jpg',
 				/*subHtml: `<div class="lightGallery-captions">
 					<h4>Caption 1</h4>
 					<p>Description of the slide 1</p>
 				</div>`,*/
 			},{
-				src: 'images/gallery/3.jpg',
-				thumb: 'images/gallery/3.jpg',
+				src: '../../images/gallery/3.jpg',
+				thumb: '../../images/gallery/3.jpg',
 				/*subHtml: `<div class="lightGallery-captions">
 					<h4>Caption 1</h4>
 					<p>Description of the slide 1</p>
 				</div>`,*/
 			},{
-				src: 'images/gallery/4.jpg',
-				thumb: 'images/gallery/4.jpg',
+				src: '../../images/gallery/4.jpg',
+				thumb: '../../images/gallery/4.jpg',
 				/*subHtml: `<div class="lightGallery-captions">
 					<h4>Caption 1</h4>
 					<p>Description of the slide 1</p>
 				</div>`,*/
 			},{
-				src: 'images/gallery/5.jpg',
-				thumb: 'images/gallery/5.jpg',
+				src: '../../images/gallery/5.jpg',
+				thumb: '../../images/gallery/5.jpg',
 				/*subHtml: `<div class="lightGallery-captions">
 					<h4>Caption 1</h4>
 					<p>Description of the slide 1</p>
 				</div>`,*/
 			},{
-				src: 'images/gallery/6.jpg',
-				thumb: 'images/gallery/6.jpg',
+				src: '../../images/gallery/6.jpg',
+				thumb: '../../images/gallery/6.jpg',
 				/*subHtml: `<div class="lightGallery-captions">
 					<h4>Caption 1</h4>
 					<p>Description of the slide 1</p>
 				</div>`,*/
 			},{
-				src: 'images/gallery/7.jpg',
-				thumb: 'images/gallery/7.jpg',
+				src: '../../images/gallery/7.jpg',
+				thumb: '../../images/gallery/7.jpg',
 				/*subHtml: `<div class="lightGallery-captions">
 					<h4>Caption 1</h4>
 					<p>Description of the slide 1</p>
 				</div>`,*/
 			},{
-				src: 'images/gallery/8.jpg',
-				thumb: 'images/gallery/8.jpg',
+				src: '../../images/gallery/8.jpg',
+				thumb: '../../images/gallery/8.jpg',
 				/*subHtml: `<div class="lightGallery-captions">
 					<h4>Caption 1</h4>
 					<p>Description of the slide 1</p>
 				</div>`,*/
 			},{
-				src: 'images/gallery/9.jpg',
-				thumb: 'images/gallery/9.jpg',
+				src: '../../images/gallery/9.jpg',
+				thumb: '../../images/gallery/9.jpg',
 				/*subHtml: `<div class="lightGallery-captions">
 					<h4>Caption 1</h4>
 					<p>Description of the slide 1</p>
 				</div>`,*/
 			},{
-				src: 'images/gallery/10.jpg',
-				thumb: 'images/gallery/10.jpg',
+				src: '../../images/gallery/10.jpg',
+				thumb: '../../images/gallery/10.jpg',
 				/*subHtml: `<div class="lightGallery-captions">
 					<h4>Caption 1</h4>
 					<p>Description of the slide 1</p>
 				</div>`,*/
 			},
 			{
-				src: 'images/gallery/11.jpg',
-				thumb: 'images/gallery/11.jpg',
+				src: '../../images/gallery/11.jpg',
+				thumb: '../../images/gallery/11.jpg',
 				/*subHtml: `<div class="lightGallery-captions">
 					<h4>Caption 1</h4>
 					<p>Description of the slide 1</p>
 				</div>`,*/
 			},{
-				src: 'images/gallery/12.jpg',
-				thumb: 'images/gallery/12.jpg',
+				src: '../../images/gallery/12.jpg',
+				thumb: '../../images/gallery/12.jpg',
 				/*subHtml: `<div class="lightGallery-captions">
 					<h4>Caption 1</h4>
 					<p>Description of the slide 1</p>
 				</div>`,*/
 			},{
-				src: 'images/gallery/13.jpg',
-				thumb: 'images/gallery/13.jpg',
+				src: '../../images/gallery/13.jpg',
+				thumb: '../../images/gallery/13.jpg',
 				/*subHtml: `<div class="lightGallery-captions">
 					<h4>Caption 1</h4>
 					<p>Description of the slide 1</p>
 				</div>`,*/
 			},{
-				src: 'images/gallery/14.jpg',
-				thumb: 'images/gallery/14.jpg',
+				src: '../../images/gallery/14.jpg',
+				thumb: '../../images/gallery/14.jpg',
 				/*subHtml: `<div class="lightGallery-captions">
 					<h4>Caption 1</h4>
 					<p>Description of the slide 1</p>
 				</div>`,*/
 			},{
-				src: 'images/gallery/15.png',
-				thumb: 'images/gallery/15.png',
+				src: '../../images/gallery/15.png',
+				thumb: '../../images/gallery/15.png',
 				/*subHtml: `<div class="lightGallery-captions">
 					<h4>Caption 1</h4>
 					<p>Description of the slide 1</p>
 				</div>`,*/
 			},{
-				src: 'images/gallery/16.png',
-				thumb: 'images/gallery/16.png',
+				src: '../../images/gallery/16.png',
+				thumb: '../../images/gallery/16.png',
 				/*subHtml: `<div class="lightGallery-captions">
 					<h4>Caption 1</h4>
 					<p>Description of the slide 1</p>
 				</div>`,*/
 			},{
-				src: 'images/gallery/17.jpg',
-				thumb: 'images/gallery/17.jpg',
+				src: '../../images/gallery/17.jpg',
+				thumb: '../../images/gallery/17.jpg',
 				/*subHtml: `<div class="lightGallery-captions">
 					<h4>Caption 1</h4>
 					<p>Description of the slide 1</p>
 				</div>`,*/
 			},{
-				src: 'images/gallery/19.jpg',
-				thumb: 'images/gallery/19.jpg',
+				src: '../../images/gallery/19.jpg',
+				thumb: '../../images/gallery/19.jpg',
 				/*subHtml: `<div class="lightGallery-captions">
 					<h4>Caption 1</h4>
 					<p>Description of the slide 1</p>
 				</div>`,*/
 			},{
-				src: 'images/gallery/20.jpg',
-				thumb: 'images/gallery/20.jpg',
+				src: '../../images/gallery/20.jpg',
+				thumb: '../../images/gallery/20.jpg',
 				/*subHtml: `<div class="lightGallery-captions">
 					<h4>Caption 1</h4>
 					<p>Description of the slide 1</p>
